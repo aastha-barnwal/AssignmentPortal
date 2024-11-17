@@ -1,0 +1,31 @@
+# Node modules directory
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Environment variables file
+.env
+
+# Dependency directories
+package-lock.json
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE specific files
+.vscode/
+.idea/
+
+# Build output (if any)
+dist/
+build/
+
+# Test coverage output (if any)
+coverage/
+
+# Optional - if you have temporary files you don't want to track
+tmp/
